@@ -5,3 +5,7 @@
 
 Aqui se almacenarán los distintos trabajos del curso gitHub
 ###esta es una primera modificación.
+se lista:
+* primero
+* segundo
+* tercero 
